@@ -1,3 +1,3 @@
-# Family 3D viewer
+# りゅうととちひろの家
 
-Encrypted viewer. Upload only the contents of this directory.
+新旧敷地案の比較アプリ。2026-11-22更新。パスワード不要。
